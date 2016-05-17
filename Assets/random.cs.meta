@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 08f3b3b140ab1e046b5038c11d3b056b
+timeCreated: 1463406183
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Fuda1: {fileID: 184920, guid: 0e6f8d0793d510944b2aced43481c0b9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
