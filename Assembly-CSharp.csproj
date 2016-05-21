@@ -45,8 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\random.cs" />
-     <Compile Include="Assets\random2.cs" />
+     <Compile Include="Assets\example.cs" />
      <Compile Include="Assets\test.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
