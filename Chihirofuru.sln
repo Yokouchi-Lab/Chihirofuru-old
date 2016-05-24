@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{F86D7BA8-D7A7-9C95-F4CC-23EBFF5BEBF4}") = "Chihirofuru", "Assembly-CSharp.csproj", "{D0C46368-69EE-45CE-C89F-4C6F64CED4C7}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chihirofuru.CSharp", "Chihirofuru.CSharp.csproj", "{35806A24-AC22-9200-C030-C5364F17B1D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0C46368-69EE-45CE-C89F-4C6F64CED4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0C46368-69EE-45CE-C89F-4C6F64CED4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0C46368-69EE-45CE-C89F-4C6F64CED4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0C46368-69EE-45CE-C89F-4C6F64CED4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35806A24-AC22-9200-C030-C5364F17B1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35806A24-AC22-9200-C030-C5364F17B1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35806A24-AC22-9200-C030-C5364F17B1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35806A24-AC22-9200-C030-C5364F17B1D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
