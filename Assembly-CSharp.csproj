@@ -45,8 +45,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraChange.cs" />
+     <Compile Include="Assets\FindTag.cs" />
+     <Compile Include="Assets\FudaScript\Fuda001.cs" />
+     <Compile Include="Assets\battleScript.cs" />
      <Compile Include="Assets\example.cs" />
+     <Compile Include="Assets\modeScript.cs" />
+     <Compile Include="Assets\random.cs" />
+     <Compile Include="Assets\random2.cs" />
      <Compile Include="Assets\test.cs" />
+     <Compile Include="Assets\titleScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
