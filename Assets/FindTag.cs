@@ -29,7 +29,7 @@ public class FindTag : MonoBehaviour {
 			usefuda[i] = fuda[random[i]];
 
 			print(fuda[i].name);
-		}//確認用
+		}//確認用だよ
 
 		Vector3 pos;
 		pos.x = -5;
